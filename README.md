@@ -1,6 +1,6 @@
 # surfs_up
 
-### An anlysis of weather data in Oahu, Hawaii
+### An analysis of weather data in Oahu, Hawaii
 
 ## Overview
 
